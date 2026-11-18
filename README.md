@@ -28,4 +28,4 @@ mi_portafolio/
     └── static/portafolio/
         ├── css/estilos.css
         ├── js/main.js
-        └── img/
+        
